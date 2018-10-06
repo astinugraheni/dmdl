@@ -1,0 +1,37 @@
+{
+  "name": "dmdl",
+  "version": "1.0.0",
+  "description": "Proyek Database Dreamdelion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astinugraheni/dmdl.git"
+  },
+  "keywords": [
+    "PCI"
+  ],
+  "author": "Asti Nugraheni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astinugraheni/dmdl/issues"
+  },
+  "homepage": "https://github.com/astinugraheni/dmdl#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-cssjanus": "^0.4.0",
+    "grunt-sass": "^2.0.0",
+    "load-grunt-tasks": "^3.5.2"
+  },
+  "dependencies": {
+    "sweetalert2": "^7.0.3"
+  }
+}
